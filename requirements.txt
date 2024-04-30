@@ -1,0 +1,10 @@
+#Python==3.6.2
+Numpy==1.16.4
+Scipy==1.2.1
+Pandas==0.20.3
+Matplotlib==3.0.2
+Seaborn==0.8.1
+Networkx==2.1
+#umap-learn==0.3.10
+Scikit-learn==0.20.2
+Tensorflow==1.7.0
