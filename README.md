@@ -1,4 +1,4 @@
-# DeepPNCC: Deep learning framework for pseudo-spatial cell-cell interaction landscapes containing spatial information
+# DeepPNCC: Reconstructing pseudo-spatial cell-cell interaction landscapes from single-cell data to decipher breast cancer pathogenesis
 DeepPNCCS is a deep learning model developed based on the variational graph autoencoder combined with adversarial strategies. It can identify spatially informative pseudo-spatial cell-cell interactions from single-cell sequencing data. The DeepPNCC model ingeniously utilizes the local spatial adjacency information provided by undissociated cells in single-cell sequencing data, effectively incorporating spatial information of cells into the identification of cell-cell interactions using only single-cell sequencing data.
 
 
